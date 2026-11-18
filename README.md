@@ -1,2 +1,2 @@
-# ML2026_AaronMa-lRuben
+## Cointegration-Arbitrage
 Stock/Crypto prediction inferred by stocks/cryptos correlation
